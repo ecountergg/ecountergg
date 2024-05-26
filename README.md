@@ -13,7 +13,5 @@
 ---
 **Social Medias:**
 
-- <img height="25" src="https://skillicons.dev/icons?i=linkedin&theme=dark"> [LinkedIn](https://id.linkedin.com/in/ecountergg)
-</img>
-- <img height="25" src="https://skillicons.dev/icons?i=instagram&theme=dark"> [Instagram](https://id.linkedin.com/in/ecountergg)
-</img>
+- <img height="25" src="https://skillicons.dev/icons?i=linkedin&theme=dark"> [LinkedIn](https://id.linkedin.com/in/ecountergg)</img>
+- <img height="25" src="https://skillicons.dev/icons?i=instagram&theme=dark"> [Instagram](https://id.linkedin.com/in/ecountergg)</img>
